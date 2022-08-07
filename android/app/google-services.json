@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "525681825933",
+    "project_id": "uvozativa",
+    "storage_bucket": "uvozativa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525681825933:android:64f0eab6f9438fe571eac4",
+        "android_client_info": {
+          "package_name": "com.vozativa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525681825933-fj51en9836h1eiquu9m0thbtkh52rome.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vozativa",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "525681825933-q8ugtll8b2iiib8cej198gqkdneqmha2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB94Hb7sq2nmeXm-GAX8SfV8rRTdOsoSqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525681825933-q8ugtll8b2iiib8cej198gqkdneqmha2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
