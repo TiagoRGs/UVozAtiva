@@ -7,7 +7,7 @@ const styles = StyleSheet.create({
   container: {
     height: deviceHeight,
     width: deviceWidth,
-    backgroundColor: '#e1e1e1',
+    backgroundColor: '#f0f',
     flexDirection: 'column',
   },
   viewItens: {
